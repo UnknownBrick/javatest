@@ -1,5 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello World");
+    String JoJo = "Jonathan",JoJo2 = "Joseph",JoJo3 = "Jotaro";
+    System.out.println(JoJo + JoJo2 + JoJo3);
   }
 }
